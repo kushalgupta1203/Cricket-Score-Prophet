@@ -1,4 +1,4 @@
-# Cricket-Score-Prophet
+# Cricket-Score-Prophet 🏏
 
 Cricket-Score-Prophet is a Flask web application that predicts cricket match scores using a pre-trained model. The application leverages historical T20 match data to provide score predictions for upcoming T20 matches.
 
